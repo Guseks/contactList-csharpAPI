@@ -1,0 +1,10 @@
+# Visual Studio specific
+.vscode/
+.vs/
+.idea/
+
+# .NET generated files
+bin/
+obj/
+
+.env
